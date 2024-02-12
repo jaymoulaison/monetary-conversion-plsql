@@ -1,4 +1,4 @@
--- Program designed to return EURO/'Country X' currentcy exchange rate.  Currently returns EURO/BGN currency exchange rate
+-- Program designed to return EURO/'Country X' currency exchange rate.  Currently returns EURO/BGN currency exchange rate.
 
 declare
 p xmlparser.parser;
